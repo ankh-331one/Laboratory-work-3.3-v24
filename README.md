@@ -12,4 +12,6 @@
 
 24. Найти общую сумму элементов тех столбцов двумерного массива, сумма элементов в каждом из которых положительна, и сумму элементов главной диагонали.
 
++ Защита(main-2.c)
+
 This project is licensed under the MIT License. See the LICENSE file for details.
